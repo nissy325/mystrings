@@ -1,4 +1,4 @@
-package mystring
+package mystrings
 
 func Reverse(s string) string {
 	result := ""
